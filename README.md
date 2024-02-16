@@ -1,3 +1,7 @@
+
+![Bi_proj_BS](https://github.com/PetersonChemLab/ProjectedBS_Plotter/assets/160284370/4ee06fdc-c66c-43a1-9c8e-754d0cb766e0)
+
+
 # ProjectedBS_Plotter
 This notebook was created to plot "fatband" style band structure plots, using atom-projected eigenvalues. There are 2 kinds of input needed to run this notebook:
 1. PBAND_{element}_SOC.dat file(s)
