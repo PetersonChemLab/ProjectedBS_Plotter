@@ -3,7 +3,7 @@
 
 
 # ProjectedBS_Plotter
-This repository contains a Jupyter notebook and python .py file for plotting "fatband" style band structure plots, using atom-projected eigenvalues. There are 2 kinds of input needed to run this notebook:
+This repository contains a Jupyter notebook and python .py file for plotting "fatband" style band structure plots from VASP calculations using atom-projected eigenvalues. There are 2 kinds of input needed to run this notebook:
 1. PBAND_{element}_SOC.dat file(s)
 2. KLABELS file
 
