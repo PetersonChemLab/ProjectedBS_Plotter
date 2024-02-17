@@ -1,0 +1,1 @@
+Example showing how to generate the projected band structures for Co and Sb in the CoSb3 structure shown in the main README file.
