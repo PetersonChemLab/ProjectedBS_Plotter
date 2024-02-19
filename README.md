@@ -1,5 +1,5 @@
 
-![CoSb3_Co-BS](https://github.com/PetersonChemLab/ProjectedBS_Plotter/assets/160284370/4d185e9b-a465-4ff2-a531-c690f71af1b7)
+![CoSb3_Co-BS](https://github.com/PetersonChemLab/ProjectedBS_Plotter/assets/160284370/2d5ca8ff-ce3d-4675-92cb-c130ea0bcfb6)
 
 # ProjectedBS_Plotter
 This repository contains a Jupyter notebook and python .py file for plotting "fatband" style band structure plots from VASP calculations using atom-projected eigenvalues. There are 2 kinds of input needed to run this notebook:
